@@ -1,0 +1,5 @@
+This is a text file
+consisting of 5 lines.
+Remember that a file can
+be opened for reading using
+`with open(filename, "r") as file:`
